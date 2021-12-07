@@ -22,6 +22,7 @@ const Gnb = () => {
                             <Searchimg src={searchimg} />
                         </SearchBox>
                     </UtilNav>
+                    <div>11</div>
                     
 
                 </MenuInner>
