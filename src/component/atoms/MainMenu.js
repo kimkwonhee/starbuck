@@ -27,7 +27,7 @@ const Menu = styled.div`
     font-size : 14px;
     cursor: pointer;
 
-    &:hover {
+    &:hover { 
         background: #2C2A29;
         color: #669900;
         text-decoration : underline;

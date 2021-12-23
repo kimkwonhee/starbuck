@@ -91,7 +91,7 @@ const UtilNav = styled.div`
 const UtilMenu = styled.div`
     color: #555;
     height : 18px;
-    /* line-height: 20px; */
+    /* line-height: 20px; */  
     padding : 0px 20px;
     border-right : 1px solid #aaa;
     cursor: pointer;
